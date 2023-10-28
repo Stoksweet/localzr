@@ -1,0 +1,7 @@
+{
+  "name": "localzr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
